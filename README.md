@@ -61,7 +61,7 @@ flowchart LR
  
 ## 📈 Results
  
-> 🚧 Results will be added after final evaluation on a held-out test set.
+> 🚧 Results will be added after final evaluation on a held-out test set
  
 | Approach | Precision | Recall | F1 |
 |---|---|---|---|
@@ -137,7 +137,7 @@ Released under the [MIT License](LICENSE).
 ---
  
 <div align="center">
-**Built by [Samarth Tomer](https://github.com/Samarth-CodeX)**
+**Built by [Samarth Tomer](https://github.com/Samarth-CodeX)** 
  
 ⭐ Star this repo if you find it useful!
  
