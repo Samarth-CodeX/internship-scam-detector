@@ -61,7 +61,7 @@ flowchart LR
  
 ## 📈 Results
  
-> 🚧 Results will be added after final evaluation on a held-out test set
+> 🚧 Results will be added after final evaluation on a held-out test set.
  
 | Approach | Precision | Recall | F1 |
 |---|---|---|---|
