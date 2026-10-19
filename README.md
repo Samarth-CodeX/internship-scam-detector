@@ -1,15 +1,14 @@
 <div align="center">
-# 🛡️ OfferCheck
- 
-### Detecting fake internship and job offers targeting Indian students
- 
-*Paste a suspicious offer → get a risk score → see the red flags behind it.*
+<img src="assets/banner.svg" alt="OfferLens: spot fake internship and job offers before they cost you" width="100%">
+<br><br>
  
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-backend-009688?logo=fastapi&logoColor=white)
-![Status](https://img.shields.io/badge/status-in%20development-yellow)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/status-in%20development-F4B43C)
+![License](https://img.shields.io/badge/license-MIT-14363D)
+ 
+**Paste a suspicious offer → get a risk score → see the red flags behind it.**
  
 </div>
 ---
@@ -23,7 +22,7 @@ Every placement season, students receive offers that look real but aren't:
 - Offer letters from personal Gmail addresses using a real company's name.
 Many students, especially first-years, can't easily tell these apart from genuine offers, and some lose money or personal data.
  
-Public scam datasets exist, but they are mostly older, non-Indian job ads. Indian internship scams look different: WhatsApp messages, Telegram links, registration fees, and Hinglish text. **OfferCheck studies that gap and builds a detector for the scams students here actually receive.**
+Public scam datasets exist, but they are mostly older, non-Indian job ads. Indian internship scams look different: WhatsApp messages, Telegram links, registration fees, and Hinglish text. **OfferLens studies that gap and builds a detector for the scams students here actually receive.**
  
 ---
  
@@ -119,7 +118,7 @@ internship-scam-detector/
  
 ## 🤝 Contribute Examples
  
-Received a suspicious internship or job offer? You can help improve OfferCheck:
+Received a suspicious internship or job offer? You can help improve OfferLens:
  
 1. **Remove** all names, phone numbers, emails, and links that identify real people.
 2. Open an **Issue** with the message text, or contact me directly.
@@ -127,7 +126,7 @@ Received a suspicious internship or job offer? You can help improve OfferCheck:
  
 ## ⚠️ Disclaimer
  
-OfferCheck is a student research project. It can make mistakes and **does not guarantee** that any offer is safe or fraudulent. Always verify offers through official company websites or your college placement cell. Never pay money to get a job or internship.
+OfferLens is a student research project. It can make mistakes and **does not guarantee** that any offer is safe or fraudulent. Always verify offers through official company websites or your college placement cell. Never pay money to get a job or internship.
  
 ---
  
@@ -138,7 +137,7 @@ Released under the [MIT License](LICENSE).
 ---
  
 <div align="center">
-**Built by [Samarth](https://github.com/Samarth-CodeX)** · Graphic Era
+**Built by [Samarth Tomer](https://github.com/Samarth-CodeX)**
  
 ⭐ Star this repo if you find it useful!
  
